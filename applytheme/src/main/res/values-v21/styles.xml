@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.Base" parent="android:Theme.Material">
+        <!--Navigation bar color-->
+        <item name="android:navigationBarColor">#D32F2F</item>
+    </style>
+</resources>
